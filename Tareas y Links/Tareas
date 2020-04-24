@@ -1,0 +1,8 @@
+Cosas que hay que hacer sí o sí:
+1. Pedir al usuario que meta datos por pantalla.(Peso, altura, genero, edad).
+2. Guardas los datos del usuario en la memoria del dispositivo.
+3. Meter las rutinas en la aplicación.
+4. Hacer algortimo para elegir cual es la mejor rutina para el usuario, teniendo en cuenta los datos metidos anteriormente.
+
+Cosas extras si dan tiempo:
+1. Mostrar una grafica con la evolución del usuario.
